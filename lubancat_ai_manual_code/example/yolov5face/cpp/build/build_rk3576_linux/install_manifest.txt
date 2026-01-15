@@ -1,0 +1,4 @@
+/home/cat/1111/Test_Project/Program3_yolov5_FaceAutoDetect/lubancat_ai_manual_code/example/yolov5face/cpp/install/rk3576_linux/./rknn_yolov5face_demo
+/home/cat/1111/Test_Project/Program3_yolov5_FaceAutoDetect/lubancat_ai_manual_code/example/yolov5face/cpp/install/rk3576_linux/./model/bus.jpg
+/home/cat/1111/Test_Project/Program3_yolov5_FaceAutoDetect/lubancat_ai_manual_code/example/yolov5face/cpp/install/rk3576_linux/lib/librknnrt.so
+/home/cat/1111/Test_Project/Program3_yolov5_FaceAutoDetect/lubancat_ai_manual_code/example/yolov5face/cpp/install/rk3576_linux/lib/librga.so
